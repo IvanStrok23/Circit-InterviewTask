@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CityInfo.BLL.Interfaces\CityInfo.BLL.Interfaces.csproj" />
+    <ProjectReference Include="..\CityInfo.BLL.Services\CityInfo.BLL.Services.csproj" />
+  </ItemGroup>
+
+
+</Project>
