@@ -26,3 +26,18 @@ Use the X-RapidAPI-Key ‘**************************’
 *All files necessary to configure and/or execute the application must be in the GitHub repository.<br />
 *All code should be as close to production ready as possible.<br />
 *Bonus points for a nice looking UI!<br />
+
+
+
+<br /><br /><br /><br /><br />
+
+## Run instructions
+
+### Backend
+*Open CityInfo.sln <br />
+*Restore packages if needed<br />
+*Run solution<br />
+
+### Frontend
+*run "npm install" in city-info-ui folder<br />
+*run command "npm run serve"<br />
