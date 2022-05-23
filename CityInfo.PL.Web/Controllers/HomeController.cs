@@ -1,13 +1,6 @@
 ﻿using CityInfo.BLL.Interfaces.CityInfo;
-using CityInfo.BLL.Services.CityInfo;
-using CityInfo.Core.Entities.DTO;
-using CityInfo.Core.Entities.Helpers;
 using CityInfo.Core.Entities.Models;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
-using System;
-using System.Collections.Generic;
-using System.Linq;
 using System.Threading.Tasks;
 
 namespace CityInfo.PL.Web.Controllers

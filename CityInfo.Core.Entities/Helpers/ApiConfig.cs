@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace CityInfo.Core.Entities.Helpers
+﻿namespace CityInfo.Core.Entities.Helpers
 {
     public class ApiConfig
     {

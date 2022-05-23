@@ -1,9 +1,6 @@
-﻿using CityInfo.BLL.Interfaces.API;
-using CityInfo.Core.Entities.Helpers;
+﻿using CityInfo.Core.Entities.Helpers;
 using System;
-using System.Collections.Generic;
 using System.Net.Http;
-using System.Text;
 
 namespace CityInfo.BLL.Services.Base
 {

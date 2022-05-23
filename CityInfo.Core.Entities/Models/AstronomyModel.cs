@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace CityInfo.Core.Entities.Models
+﻿namespace CityInfo.Core.Entities.Models
 {
     public class AstronomyModel
     {

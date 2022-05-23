@@ -4,10 +4,7 @@ using CityInfo.BLL.Services.Base;
 using CityInfo.Core.Entities.DTO;
 using CityInfo.Core.Entities.Helpers;
 using CityInfo.Core.Entities.Models;
-using System;
-using System.Collections.Generic;
 using System.Net.Http;
-using System.Text;
 using System.Threading.Tasks;
 
 namespace CityInfo.BLL.Services.CityInfo

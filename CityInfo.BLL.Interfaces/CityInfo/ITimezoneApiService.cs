@@ -1,8 +1,4 @@
-﻿using CityInfo.Core.Entities.DTO;
-using CityInfo.Core.Entities.Models;
-using System;
-using System.Collections.Generic;
-using System.Text;
+﻿using CityInfo.Core.Entities.Models;
 using System.Threading.Tasks;
 
 namespace CityInfo.BLL.Interfaces.CityInfo
