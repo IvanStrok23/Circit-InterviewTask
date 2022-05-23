@@ -1,5 +1,8 @@
 # Circit-InterviewTask
-Simple web app, using c# for backend and vue.js for frontent
+Simple web app, using c# for backend and vue.js for frontent<br />
+
+
+#Task<br />
 Create a small web application that allows a user to receive weather,
 timezone and astronomy information related to a city of their choosing
 
